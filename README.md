@@ -6,4 +6,4 @@ The pipeline of the project:
 - Analyse the asset — log-returns, historical volatility, and max drawdown.
 - Price the options — European call and put with the Black-Scholes-Merton model.
 - Compute the Greeks — delta, gamma, vega, theta, rho for risk analysis.
-- Compute the put-call parity
+- Check the put-call parity.
